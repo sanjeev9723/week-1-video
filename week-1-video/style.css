@@ -1,0 +1,14 @@
+body {
+    width: 100%;
+    height: 100vh;
+  }
+  video {
+    width: 100vw;
+    box-shadow: 0px 0px 40px 10px rgb(19, 17, 17);
+  }
+  .controls {
+      
+    text-align: center;
+    padding-top: 20px;
+    
+  }
